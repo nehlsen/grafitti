@@ -1,0 +1,3 @@
+[submodule "lib/qmqtt"]
+	path = lib/qmqtt
+	url = git@github.com:emqx/qmqtt.git
